@@ -33,3 +33,6 @@ Option 2 - **Console**
 3. Press Ctrl+Shift+I
 4. Go to console.
 5. Paste in the code you copied and press Enter.
+
+### Frequent Issues (How to Fix)
+"I can't see the bookmarklet!" - Go into settings and set your favorites bar to show **Always**
